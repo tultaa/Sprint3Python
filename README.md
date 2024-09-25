@@ -1,5 +1,10 @@
 # Sprint 3 Python - Nu Coding
 ## Integrantes
+- Arthur Fellipe Estevão da Silva RM553320
+- Eduardo Pires Escudero RM556527
+- Leonardo Munhoz Prado RM556824
+
+### Codigo esta em sprint3.py
 
 ### Como usar
 Instruções para Usar o Simulador de Corrida de Fórmula 1
