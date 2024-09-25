@@ -42,3 +42,7 @@ Dicas
 Você pode realizar quantas corridas quiser, e o ranking geral será atualizado após cada uma.
 Experimente diferentes combinações de pilotos e voltas para ver como isso afeta os resultados.
 Divirta-se simulando suas corridas e boa sorte para os pilotos!
+
+### Diagrama em Blocos:
+![diagrama](https://github.com/user-attachments/assets/a904dcbd-3e46-4dab-81c4-69e1b4238fe5)
+
