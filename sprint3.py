@@ -39,7 +39,7 @@ Divirta-se simulando suas corridas e boa sorte para os pilotos!'''
 
 import random
 
-def corrida_formula1(pilotos, num_voltas):
+def corrida_formulaE(pilotos, num_voltas):
     resultados = {piloto: float('inf') for piloto in pilotos}  # Inicializa com infinito
 
     for volta in range(1, num_voltas + 1):
@@ -96,7 +96,7 @@ def menu():
                 pilotos.append(piloto)
 
             num_voltas = int(input("Insira o número de voltas da corrida: "))
-            classificacao = corrida_formula1(pilotos, num_voltas)
+            classificacao = corrida_formulaE(pilotos, num_voltas)
             atualizar_ranking(ranking_geral, classificacao)
         elif opcao == '2':
             exibir_ranking_geral(ranking_geral)
